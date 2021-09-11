@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trekmate/precache-manifest.5cc4114c142009ef7634441ba511b66c.js"
+  "/trekmate/precache-manifest.5e35e16414f6f401a7019df46de35aec.js"
 );
 
 self.addEventListener('message', (event) => {

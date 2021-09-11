@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "175371fe39e9754d1a93ac326573c5a2",
+    "revision": "0198904d01375de77603f69d2e9668eb",
     "url": "/trekmate/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trekmate/static/css/2.a1667f21.chunk.css"
   },
   {
-    "revision": "c3a8a8222c4f8dca38ca",
+    "revision": "8a64fd255c54968dd0ed",
     "url": "/trekmate/static/css/main.628faf3c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trekmate/static/js/2.36434ea7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3a8a8222c4f8dca38ca",
-    "url": "/trekmate/static/js/main.1eb1696d.chunk.js"
+    "revision": "8a64fd255c54968dd0ed",
+    "url": "/trekmate/static/js/main.c7545fa1.chunk.js"
   },
   {
     "revision": "f1f3c8757beb5711eeb1",
