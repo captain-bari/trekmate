@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/trekmate/static/css/main.eb893269.chunk.css",
+    "main.js": "/trekmate/static/js/main.1eb1696d.chunk.js",
+    "main.js.map": "/trekmate/static/js/main.1eb1696d.chunk.js.map",
+    "runtime-main.js": "/trekmate/static/js/runtime-main.0900a82f.js",
+    "runtime-main.js.map": "/trekmate/static/js/runtime-main.0900a82f.js.map",
+    "static/css/2.d75014c2.chunk.css": "/trekmate/static/css/2.d75014c2.chunk.css",
+    "static/js/2.36434ea7.chunk.js": "/trekmate/static/js/2.36434ea7.chunk.js",
+    "static/js/2.36434ea7.chunk.js.map": "/trekmate/static/js/2.36434ea7.chunk.js.map",
+    "index.html": "/trekmate/index.html",
+    "precache-manifest.f6d43c1bf0c7f54b3985eacbb359b73b.js": "/trekmate/precache-manifest.f6d43c1bf0c7f54b3985eacbb359b73b.js",
+    "service-worker.js": "/trekmate/service-worker.js",
+    "static/css/2.d75014c2.chunk.css.map": "/trekmate/static/css/2.d75014c2.chunk.css.map",
+    "static/css/main.eb893269.chunk.css.map": "/trekmate/static/css/main.eb893269.chunk.css.map",
+    "static/js/2.36434ea7.chunk.js.LICENSE.txt": "/trekmate/static/js/2.36434ea7.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/trekmate/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/style.scss": "/trekmate/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/trekmate/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/trekmate/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/trekmate/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/trekmate/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/trekmate/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/trekmate/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/trekmate/static/media/features-split-image-01.9425960d.png",
+    "static/media/features-split-image-02.png": "/trekmate/static/media/features-split-image-02.82ef2126.png",
+    "static/media/features-split-image-03.png": "/trekmate/static/media/features-split-image-03.879a3d4c.png",
+    "static/media/features-split-image-04.png": "/trekmate/static/media/features-split-image-04.4d415440.png",
+    "static/media/features-split-image-05.png": "/trekmate/static/media/features-split-image-05.afb0c6cd.png",
+    "static/media/features-split-image-06.png": "/trekmate/static/media/features-split-image-06.e49627fb.png",
+    "static/media/trekmate.jpg": "/trekmate/static/media/trekmate.58eef92b.jpg",
+    "static/media/video-placeholder.jpg": "/trekmate/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0900a82f.js",
+    "static/css/2.d75014c2.chunk.css",
+    "static/js/2.36434ea7.chunk.js",
+    "static/css/main.eb893269.chunk.css",
+    "static/js/main.1eb1696d.chunk.js"
+  ]
+}
