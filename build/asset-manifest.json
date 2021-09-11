@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trekmate/static/css/main.628faf3c.chunk.css",
-    "main.js": "/trekmate/static/js/main.1eb1696d.chunk.js",
-    "main.js.map": "/trekmate/static/js/main.1eb1696d.chunk.js.map",
+    "main.js": "/trekmate/static/js/main.c7545fa1.chunk.js",
+    "main.js.map": "/trekmate/static/js/main.c7545fa1.chunk.js.map",
     "runtime-main.js": "/trekmate/static/js/runtime-main.0900a82f.js",
     "runtime-main.js.map": "/trekmate/static/js/runtime-main.0900a82f.js.map",
     "static/css/2.a1667f21.chunk.css": "/trekmate/static/css/2.a1667f21.chunk.css",
     "static/js/2.36434ea7.chunk.js": "/trekmate/static/js/2.36434ea7.chunk.js",
     "static/js/2.36434ea7.chunk.js.map": "/trekmate/static/js/2.36434ea7.chunk.js.map",
     "index.html": "/trekmate/index.html",
-    "precache-manifest.5cc4114c142009ef7634441ba511b66c.js": "/trekmate/precache-manifest.5cc4114c142009ef7634441ba511b66c.js",
+    "precache-manifest.5e35e16414f6f401a7019df46de35aec.js": "/trekmate/precache-manifest.5e35e16414f6f401a7019df46de35aec.js",
     "service-worker.js": "/trekmate/service-worker.js",
     "static/css/2.a1667f21.chunk.css.map": "/trekmate/static/css/2.a1667f21.chunk.css.map",
     "static/css/main.628faf3c.chunk.css.map": "/trekmate/static/css/main.628faf3c.chunk.css.map",
@@ -36,6 +36,6 @@
     "static/css/2.a1667f21.chunk.css",
     "static/js/2.36434ea7.chunk.js",
     "static/css/main.628faf3c.chunk.css",
-    "static/js/main.1eb1696d.chunk.js"
+    "static/js/main.c7545fa1.chunk.js"
   ]
 }
