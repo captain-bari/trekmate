@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2998ba552cb32e59293477d0dcb20488",
+    "revision": "59d9ca5f82fafab4be626c2b0c15e40e",
     "url": "/trekmate/index.html"
   },
   {
-    "revision": "3dbe31c248727912dcf7",
+    "revision": "2ce20c17eb893e9439e8",
     "url": "/trekmate/static/css/2.a1667f21.chunk.css"
   },
   {
-    "revision": "a007b4b0efbceddec765",
+    "revision": "ccf77221c14fc391314f",
     "url": "/trekmate/static/css/main.b997b328.chunk.css"
   },
   {
-    "revision": "3dbe31c248727912dcf7",
-    "url": "/trekmate/static/js/2.36434ea7.chunk.js"
+    "revision": "2ce20c17eb893e9439e8",
+    "url": "/trekmate/static/js/2.855759c7.chunk.js"
   },
   {
     "revision": "0ac79d53dda6ffa0c6325c90109848cb",
-    "url": "/trekmate/static/js/2.36434ea7.chunk.js.LICENSE.txt"
+    "url": "/trekmate/static/js/2.855759c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a007b4b0efbceddec765",
-    "url": "/trekmate/static/js/main.c7545fa1.chunk.js"
+    "revision": "ccf77221c14fc391314f",
+    "url": "/trekmate/static/js/main.95cb3e3c.chunk.js"
   },
   {
     "revision": "f1f3c8757beb5711eeb1",
@@ -66,14 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "836acd100a942420f8ab4e6c5e4162d8",
     "url": "/trekmate/static/media/feature-tile-icon-04.836acd10.svg"
-  },
-  {
-    "revision": "fa9ba00b178abc7bd2e02bd986e91fe3",
-    "url": "/trekmate/static/media/feature-tile-icon-05.fa9ba00b.svg"
-  },
-  {
-    "revision": "6a1776963deb39d710bae80bb449aebe",
-    "url": "/trekmate/static/media/feature-tile-icon-06.6a177696.svg"
   },
   {
     "revision": "9425960d08c171450679e8660a6a0c07",
